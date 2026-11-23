@@ -1,20 +1,21 @@
-# Zombies Aren't Real · Мод-меню
+# Zombies Aren't Real · Внутриигровое мод-меню
 
-Мод-меню на русском языке с десятью функциями для обороны города и кампании (живая подгрузка в запущенной игре за 0.5 сек на обычном сохранении).
+Внутриигровое мод-меню на русском языке с десятью функциями настройки баланса для обороны города и кампании (живая подгрузка в запущенной игре за полсекунды на обычном сохранении).
 
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
+- **[Единая страница с русификатором на Boosty (бесплатно, без регистрации)](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)**
 
-Подготовлено под патч 0.43.1 (сборка Steam 26692741) для Windows (клавиши `F1`, `Alt+1..6` и геймпад `L3 + R3`). В архив также входит автономный скрипт `install-steamdeck.sh` для SteamOS и Linux. Сохранения игры и достижения Steam работают в штатном режиме.
+Подготовлено под патч 0.43.1 (сборка Steam `26692741`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения игры и достижения Steam продолжают работать как обычно.
 
-При выключении переключателей и удалении мод-меню оригинальные `balance.ini` и `unlocks.ini` восстанавливаются побайтно из отдельной папки `trainer_backup_orig`. Уже полученные в кампании медали, накопленный бюджет и записанные в сохранение разблокировки остаются у игрока.
+При выключении переключателей и удалении мод-меню оригинальные файлы игры возвращаются в один клик. Уже полученные в кампании медали, накопленный бюджет и записанные в сохранение разблокировки остаются у игрока.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
 ## Установка
 
 1. **Windows:** распакуйте архив и запустите `ZombiesArentReal-Trainer-Setup.exe` -> **«Установить мод-меню»**, затем нажмите **«Открыть мод-меню поверх игры (F1)»** (при окне SmartScreen: «Подробнее» -> «Выполнить в любом случае»). В папку игры также копируется `ZombiesArentReal-Trainer.exe` для быстрого запуска оверлея.
-2. **SteamOS / Linux:** распакуйте файлы архива в одну папку и запустите `sh install-steamdeck.sh` (на Рабочем столе Steam Deck откроется окно выбора функций `zenity`, либо передайте флаги `--install`, `--enable`, `--uninstall` в терминале).
-3. **Удаление:** запустите установщик повторно и нажмите **«Удалить мод-меню»** (или `sh install-steamdeck.sh --uninstall`). Полностью совместимо с оригинальной игрой и с [русификатором текста](https://github.com/neoru-droid/zombies-arent-real-ru) - оба пакета хранят резервные копии раздельно (`trainer_backup_orig` и `ru_backup_orig`) и удаляются независимо в любом порядке.
+2. **Steam Deck / Linux:** распакуйте файлы архива в одну папку и выполните `sh install-steamdeck.sh` (на Рабочем столе Steam Deck откроется окно выбора функций `zenity`, либо передайте флаги `--install`, `--enable`, `--uninstall` в терминале).
+3. **Удаление:** запустите установщик повторно и нажмите **«Удалить мод-меню»** (или `sh install-steamdeck.sh --uninstall`). Полностью совместимо с оригинальной игрой и с [русификатором текста](https://github.com/neoru-droid/zombies-arent-real-ru) - резервные копии хранятся раздельно, оба пакета ставятся и удаляются в один клик в любом порядке.
 
 ## Возможности (10 функций)
 
@@ -60,4 +61,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Boosty](https://boosty.to/cd_tixo) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
