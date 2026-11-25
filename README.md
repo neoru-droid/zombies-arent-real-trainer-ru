@@ -79,4 +79,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
