@@ -1,14 +1,13 @@
 # Zombies Aren't Real · Внутриигровое мод-меню
 
-Внутриигровое мод-меню на русском языке с десятью функциями настройки баланса для обороны города и кампании (живая подгрузка в запущенной игре за полсекунды на обычном сохранении).
+Внутриигровое мод-меню на русском языке (10 функций) для обороны города и кампании **Zombies Aren't Real** (подключается в запущенной игре за полсекунды, достижения в Steam продолжают открываться).
 
+## Скачать
+- **[Страница релиза и обновления на Boosty (вместе с русификатором 2-в-1)](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real)**
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Страница релиза с русификатором 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real)**
 
-Подготовлено под патч 0.44.0 (сборка Steam `26799228`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения игры и достижения Steam продолжают работать.
-
-При выключении переключателей и удалении мод-меню оригинальные файлы игры возвращаются в один клик. Уже полученные в кампании медали, накопленный бюджет и записанные в сохранение разблокировки остаются у игрока.
+Подготовлено под патч `0.44.0` (сборка Steam `26799228`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения и достижения продолжают работать.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
@@ -60,7 +59,7 @@
 
 ## Таблица Cheat Engine (.CT)
 
-Автономная таблица `ZombiesArentReal_RU_v1.0.CT` для Cheat Engine 7.7 меняет баланс в памяти без изменения файлов игры (`zombies-arent-real.exe`).
+Таблица `ZombiesArentReal_RU_v1.0.CT` для Cheat Engine 7.5+ (`zombies-arent-real.exe`) работает без изменения файлов игры.
 
 ![Таблица Cheat Engine](docs/screenshots/ct_1.png)
 
@@ -75,8 +74,12 @@
 
 Как подключить: запустите игру -> откройте `ZombiesArentReal_RU_v1.0.CT` через `File -> Load` в Cheat Engine -> выберите процесс `zombies-arent-real.exe` -> активируйте нужные строки по одной или клавишами `Ctrl+Num1` .. `Ctrl+Num8` (не нажимайте `Ctrl+A` в окне Cheat Engine).
 
-## Обратная связь и ссылки
+## Обратная связь и проекты автора
 
-Об ошибке можно написать в [Issues](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/issues).
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real) · [Каталог с поиском](https://neoru-droid.github.io/)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Лицензия: [MIT](LICENSE)
+
+Автор: `neoru-droid`
