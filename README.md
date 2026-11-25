@@ -4,7 +4,7 @@
 
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
-- **[Единая страница с русификатором 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)**
+- **[Единая страница с русификатором 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real)**
 
 Подготовлено под патч 0.44.0 (сборка Steam `26799228`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения игры и достижения Steam продолжают работать как обычно.
 
@@ -79,4 +79,4 @@
 
 Об ошибке можно написать в [Issues](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/issues).
 
-[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
+[Все версии](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases) · [Русификатор Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real) · [Каталог с поиском](https://neoru-droid.github.io/)
