@@ -1,13 +1,13 @@
 # Zombies Aren't Real · Внутриигровое мод-меню
 
-Внутриигровое мод-меню на русском языке (10 функций) для обороны города и кампании **Zombies Aren't Real** (подключается в запущенной игре за полсекунды, достижения в Steam продолжают открываться).
+Внутриигровое мод-меню на русском языке (10 функций) для обороны города и кампании **Zombies Aren't Real** (подключается в запущенной игре за полсекунды).
 
 ## Скачать
 - **[Страница релиза и обновления на Boosty (вместе с русификатором 2-в-1)](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7?utm_source=github&utm_medium=readme&utm_campaign=zombies_arent_real)**
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](#установка)
 - **[Скачать таблицу Cheat Engine v1.0 (.CT в ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-CheatTable-RU-v1.0.zip)** · [Как подключить .CT](#таблица-cheat-engine-ct)
 
-Подготовлено под патч `0.44.0` (сборка Steam `26799228`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения и достижения продолжают работать.
+Подготовлено под патч `0.44.0` (сборка Steam `26799228`) для **Windows** (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и **Steam Deck / Linux** (`install-steamdeck.sh`). Сохранения не затрагиваются.
 
 ![Обложка мод-меню](docs/screenshots/cover_16x9.png)
 
